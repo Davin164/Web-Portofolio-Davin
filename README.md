@@ -1,6 +1,6 @@
 # 🌐 Web Portofolio — Davin Gabriel Jonathan
 
-Website portofolio pribadi yang menampilkan profil, skill, dan proyek-proyek yang telah dibuat.
+Website portofolio pribadi saya yang menampilkan profil, skill, dan proyek-proyek yang telah dibuat.
 
 ---
 
@@ -18,7 +18,7 @@ Website portofolio pribadi yang menampilkan profil, skill, dan proyek-proyek yan
 Web-Portofolio-Davin/
 │
 ├── index.html       # Single-file portofolio (HTML + CSS + JS)
-└── README.md        # Dokumentasi project
+└── README.md        # Dokumentasi file
 ```
 
 > Seluruh kode (HTML, CSS, JS) berada dalam satu file `index.html`.
