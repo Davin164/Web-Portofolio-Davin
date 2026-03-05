@@ -37,7 +37,7 @@ Web-Portofolio-Davin/
    cd Web-Portofolio-Davin
    ```
 
-3. Buka `index.html` langsung di browser — selesai! ✅
+3. Buka `index.html` langsung di browser — selesai! 
 
 > Tidak perlu install apapun, tidak ada dependencies eksternal selain Google Fonts.
 
