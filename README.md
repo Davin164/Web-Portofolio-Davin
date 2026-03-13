@@ -58,7 +58,7 @@ Web-Portofolio-Davin/
 
 - **GitHub:** [@Davin164](https://github.com/Davin164)
 - Terbuka untuk **magang** dan **freelance** Web Development
-- Let's Connect
+- Let's Connect and learn
 
 ---
 
