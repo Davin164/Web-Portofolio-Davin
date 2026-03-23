@@ -54,7 +54,7 @@ Web-Portofolio-Davin/
 
 ---
 
-## 📬 Kontak
+## 📬 Kontak Owner
 
 - **GitHub:** [@Davin164](https://github.com/Davin164)
 - Terbuka untuk **magang** dan **freelance** Web Development
