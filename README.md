@@ -1,6 +1,6 @@
 # 🌐 Web Portofolio — Davin Gabriel Jonathan
 
-Website ini berisikan portofolio pribadi saya yang menampilkan profil, skill, dan project yang telah saya buat.
+Website ini berisikan portofolio pribadi saya yang menampilkan tentang profil, skill, dan project yang telah saya buat.
 
 ---
 
